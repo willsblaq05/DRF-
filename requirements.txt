@@ -1,0 +1,9 @@
+django == 6.0.4
+djangorestframework
+pyyaml
+requests
+psutil
+celery
+redis
+flower
+django-cors-headers
